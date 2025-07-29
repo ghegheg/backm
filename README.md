@@ -1,4 +1,3 @@
-backm package
 Package install
 1. Copy backm file into any director specified by load-path varible. 
 If you are not contented with any of these directories, you may have your directory in load-path, simply 
